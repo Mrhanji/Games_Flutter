@@ -1,6 +1,6 @@
 # flutter_games
 
-A new Flutter project.
+This Project Helps you to Understanding about flutter games and 2d render
 
 ## Getting Started
 
